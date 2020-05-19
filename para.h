@@ -12,7 +12,7 @@ struct para {
   int filesize;
   int start;
   int stop;
-  char* firstline;   // DEBUG only
+  char* firstline;  
   char* secondline;
 };
 
